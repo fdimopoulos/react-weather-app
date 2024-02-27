@@ -140,7 +140,7 @@ p {
 @media (max-width: 470px) {
     .app .city-search input {
         font-size: 1rem;
-        padding: 0.5rem 0.875rem;
+        padding: 0.5rem 0.75rem;
     }
     .main {
         padding-inline: 0.375rem;
